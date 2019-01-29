@@ -14,4 +14,4 @@ Step 4. Extract the zip file and open a terminal where you extracted it.
 
 Step 5. In the terminal, type `node bot.js`
 
-If you see: "Ready!" in the terminal, that means you did it! If you got errors, try again!
+If you see: "Ready!" in the terminal, that means you did it! If you got errors, try again or use the pre-hosted bot!
