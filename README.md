@@ -13,3 +13,5 @@ Step 3. Edit the `config.json` to your needs.
 Step 4. Extract the zip file and open a terminal where you extracted it.
 
 Step 5. In the terminal, type `node bot.js`
+
+If you see: "Ready!" in the terminal, that means you did it! If you got errors, try again!
