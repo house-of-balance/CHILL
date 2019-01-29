@@ -8,3 +8,8 @@ Step 1. Install <a href="https://nodejs.org/en/download/">node.js</a> and instal
 
 Step 2. Download this repo. <a href="https://github.com/house-of-balance/DR.-NOPE/archive/master.zip">Download Link</a> 
 
+Step 3. Edit the `config.json` to your needs.
+
+Step 4. Extract the zip file and open a terminal where you extracted it.
+
+Step 5. In the terminal, type `node bot.js`
