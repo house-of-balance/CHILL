@@ -20,4 +20,4 @@ Note: Some bot commands are focused on the bot account, so you might wanna chang
 Bot being rewritten, remove current files and kick bot.
 # Wiki
 
-https://github.com/house-of-balance/DR.-NOPE/wiki
+https://github.com/house-of-balance/DR.-NOPE#wiki
