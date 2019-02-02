@@ -1,4 +1,5 @@
 // bot rewrite
+// dont use bot
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
