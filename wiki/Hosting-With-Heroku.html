@@ -1,0 +1,14 @@
+<p>#### Making a Heroku account To host the bot on Heroku we need to make an account on Heroku! You can do this over <a href="dashboard.heroku.com">here.</a></p>
+<h4 id="get-the-repo">Get the repo</h4>
+<p>Assuming you already have a GitHub account, download the master branch (doesn't support heroku yet) or the dev-v2 branch and configure the config. &gt; configure the config</p>
+<h4 id="making-the-heroku-app">Making the Heroku app</h4>
+<p>Now we get to some dirty stuff, make an app on <a href="https://dashboard.heroku.com/new-app">the Heroku dashboard</a> and name it whatever you want.</p>
+<h4 id="the-github-repo">The github repo</h4>
+<p>Why I needed <a href="https://github.com/house-of-balance/DR.-NOPE/wiki/Hosting-With-Heroku#get-the-repo">this section</a>.</p>
+<p>So make a new github repo, and upload the bot files to it. Simple, right?</p>
+<h4 id="managing-the-app">Managing the app</h4>
+<p>So now you connect the GitHub repo to the app. Manage the app like normal <a href="dashboard.heroku.com">over here</a> and go to the &quot;Deploy&quot; tab. Then connect your github account to the repo, blah blah blah.</p>
+<p>Now go to the &quot;Resources&quot; tab and select the pencil next to</p>
+<pre><code>worker: node bot.js</code></pre>
+<p>and flip the switch.</p>
+<p>Boom! Your bot should now be online!</p>
