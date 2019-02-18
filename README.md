@@ -20,6 +20,8 @@ If you see: "Ready!" in the terminal, that means you did it! If you got errors, 
 Note: Some bot commands are focused on the bot account, so you might wanna change some of the commands from `DR. Nope!#0908` to `Bot name and tag here`.
 # More
 Bot being rewritten, remove current files and kick bot.
+
+Bot writer's account has been disabled. My account. I will not be able to test the bot until further notice.
 # Wiki
 
 <a href="https://github.com/house-of-balance/DR.-NOPE/wiki">Wiki</a>
