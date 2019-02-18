@@ -1,0 +1,11 @@
+{
+  "name": "Small Sharp Tool",
+  "description": "This app does one little thing, and does it well.",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "bot"
+  ],
+  "repository": "https://github.com/house-of-balance/DR.-NOPE/",
+  "logo": "https://house-of-balance.github.io/DR.-NOPE/logo.png"
+  }
