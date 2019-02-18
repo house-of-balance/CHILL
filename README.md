@@ -2,6 +2,8 @@
 Wondering what "DR. NOPE" is and who they are?
 Well DR. NOPE is a public discord bot coded by Zₐₗgₒ#8436 with ideas from !?BRANDGRAND?!#3001.
 
+Go to https://github.com/house-of-balance/DR.-NOPE/tree/dev-v2
+
 <a href="https://github.com/house-of-balance/DR.-NOPE#wiki">Wiki</a>
 # Self Hosting
 Wanna host the bot yourself? Well nobody's stopping you!
