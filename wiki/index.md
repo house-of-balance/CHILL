@@ -1,4 +1,4 @@
 Welcome to the DR. NOPE wiki!
 
 Pages:
-[Self Hosting](./hosting-with-heroku.html)
+[Hosting With Heroku](./Hosting With Heroku.html)
