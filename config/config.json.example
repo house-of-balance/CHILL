@@ -1,0 +1,6 @@
+The part below should be changed and saved as config.json
+
+{
+	"prefix": "your-prefix",
+	"token": "your-token-goes-here"
+}
