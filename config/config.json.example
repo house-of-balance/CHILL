@@ -1,5 +1,4 @@
-The part below should be changed and saved as config.json
-
+The part below should be changed and saved as config.json. Remove this.
 {
 	"prefix": "your-prefix",
 	"token": "your-token-goes-here"
